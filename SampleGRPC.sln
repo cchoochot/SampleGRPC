@@ -7,6 +7,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SampleGRPC", "SampleGRPC\Sa
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SampleGRPCServer", "SampleGRPCServer\SampleGRPCServer.vcxproj", "{4608D3A4-9BBD-4A26-9F87-0660B5A91440}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{429AC51C-45C2-4A45-9B9E-E0D1BD22DE05}"
+	ProjectSection(SolutionItems) = preProject
+		helloworld.proto = helloworld.proto
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
